@@ -27,3 +27,6 @@ A Landing Page da "Like Shoes" foi criada com o objetivo de atrair clientes em p
 ## Autor
 
 Este projeto foi desenvolvido por [João Guilherme](https://github.com/JGuiDev).
+
+## Demo
+Este projeto está hospedado e pode ser acessado [aqui](https://likeshoes.netlify.app/).
